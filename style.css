@@ -1,0 +1,133 @@
+body{
+    text-align: center;
+}
+
+.searchs{
+    margin-top: 33px;
+    margin-right: 280px;
+}
+
+.daumimg{
+    position : absolute;
+    margin-left: -367px;
+    width: 120px;
+    height: 83px;
+}
+
+#insear{
+    padding-left: 10px;
+    margin-top: 17px;
+    font-size: 20px;
+    margin-left: 90px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border-image: linear-gradient(to right, #81A0F2, #BA86DD, #FBB349);
+    border-image-slice: 1;
+    outline:none;
+    width: 530px;
+    height: 30px;
+}
+.searchicon{
+    margin-left: -80px;
+    margin-bottom: -6px;
+    width: 25px;
+    height: 25px;
+}
+li{
+    font-size: 12px;
+    display: inline-block;
+}
+.btn{
+    cursor:pointer;
+    border: none;
+    background-color: white;
+    width: 4px;
+}
+.news{
+    margin-top: -15px;
+    margin-right: 330px;
+    padding: 0;
+}
+.s1{
+    font-size: 13px;
+    margin-left: 8px;
+}
+a{
+    text-decoration-line: none;
+    color: black;
+}
+.service{
+    border-top: 1px solid #e1dede;
+    border-bottom: 1px solid #888;
+    margin-top: 24px;
+    height: 50px;
+    width: auto;
+}
+.menu_service{
+    margin-top: -14px;
+    margin-left: -400px;
+}
+.firstmain{
+    margin-top: 17px;
+    margin-left: 390px;
+    width: 778px;
+    height: 390px;
+}
+.gwang{
+    width: 663px;
+    height: 120px;
+}
+.str{
+    font-size: 11px;
+    position: absolute;
+
+    line-height: 15px;
+}
+.secondmain{
+    margin-left: 360px;
+    margin-top: -395px;
+}
+.info{
+    width: 17px;
+    height: 17px;
+}
+.yell{
+    line-height: 45px;
+    position: absolute;
+    margin-top:-170px;
+    top: 50%;
+    width: 260px;
+    transform: translateY(-50%);
+    border: 1px solid #F6DD00;
+    background-color: #fee500;
+}
+.login{
+    text-align: center;
+    font-size: 13px;
+}
+.kakao{
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+}
+.daum1{
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;;
+}
+.unity{
+    font-size: 11px;
+    margin-top: 89px;
+    margin-left: 615px;
+}
+.unity2:hover{
+    
+    text-decoration: underline;
+}
+.sign:hover{
+    
+    text-decoration: underline;
+}
+.sign{
+    margin-left: 80px;
+}
